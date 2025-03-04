@@ -1,0 +1,10 @@
+# Ignore environment and secret files
+.env
+config.json
+.venv
+
+# Ignore build artifacts
+/dist
+/build
+/node_modules
+/vendor

@@ -1,0 +1,6 @@
+curl -X GET \
+  "https://biogen-test.oktapreview.com/api/v1/apps/0oaiiw7fyhBv6gS5Q1d7" \
+  -H "Accept: application/json" \
+  -H "Content-Type: application/json" \
+  -H "Authorization: SSWS 00zSc7l6hB-lwqART1Ok7wNNmhyvnQJvy7I3TKG8Ao" \
+  -v
